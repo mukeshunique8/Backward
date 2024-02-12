@@ -21,6 +21,17 @@ body{
   margin-top: 80px;
 }
 
+.timezones{
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.timezones p span{
+  color: white;
+}
+
 h1,h2{
   color: white;
 }
