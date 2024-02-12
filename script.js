@@ -60,8 +60,6 @@ links.forEach(function(link){
 });
 
 
-
-
 function updateTime() {
   // Get the current time in India
   var indiaTime = new Date().toLocaleString("en-US", {timeZone: "Asia/Kolkata"});
