@@ -26,10 +26,13 @@ body{
   display: flex;
   justify-content: space-between;
   width: 100%;
+  font-family: "Protest Revolution", sans-serif;
+  font-size: 1.5rem
 }
 
 .timezones p span{
   color: white;
+  font-family: "Protest Revolution", sans-serif;
 }
 
 h1,h2{
